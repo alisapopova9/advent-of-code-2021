@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021 solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisapopova9/advent-of-code-2021.git"
+  },
+  "author": "Alisa Popova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisapopova9/advent-of-code-2021/issues"
+  },
+  "homepage": "https://github.com/alisapopova9/advent-of-code-2021#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "typescript": "^4.5.2"
+  }
+}
